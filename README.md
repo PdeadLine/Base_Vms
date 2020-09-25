@@ -1,4 +1,4 @@
-# 吉特仓储管系统基础版本
+# 仓储管系统基础版本
   适合单仓库，基本的仓库入库管理，出库管理，盘点，报损，移库，库位等管理，有着可视化图表。 系统采用Bootstrap 开发，UI 相对比较简单，业务功能不复杂，适合一般的学习开发者。
 
 
@@ -11,25 +11,6 @@
 
 (4)本人目前定制二次开发各种仓库系统,不单独销售成品软件，如有需求可以直接联系本人。
 
-# 其他开源软件
-
-### 吉特仓储管理系统基础版本
-https://github.com/hechenqingyuan/gitwms.git
-
-### 吉特仓储管理系统云服务版本
-https://github.com/hechenqingyuan/yun_gitwms.git
-
-### 吉特标签打印小程序
-https://github.com/hechenqingyuan/gitprint
-
-### UPS物流快递C#版SDK,国内最全版本
-https://github.com/hechenqingyuan/UPS.SDK
-
-### UPS物流快递C#版SDK,国内最全版本
-https://github.com/hechenqingyuan/UPS.SDK
-
-### 吉特日化生产执行制造系统 物流管理PDA程序
-https://github.com/hechenqingyuan/GitMes_PDA.git
 
 
 # 功能清单
@@ -105,22 +86,6 @@ https://github.com/hechenqingyuan/GitMes_PDA.git
 
 ----自定义报表
 
-
-
-
-
-# 联系方式
-
-手机：15800466429 同微信
-
-QQ：821865130 
-
-技术交流群：142050808  ;  88718955
-
-博客地址:http://www.cnblogs.com/qingyuan/
-
-<img src="http://yun.gitwms.com/Weixin.jpg" width="350" height="500" alt=""/>
-<img src="http://yun.gitwms.com/Alipay.jpg" width="350" height="500" alt=""/>
 
 
 
